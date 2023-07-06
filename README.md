@@ -21,3 +21,5 @@
 ### Resutados
 
 ![Alt text](./desafio-phishing.png "Desafio Phishing")
+
+(OBS: sim, eu repeti mal a senha)
